@@ -1,0 +1,82 @@
+<div align="center">
+
+# 🌍 TerraEngine
+### *Next Generation Game Engine for FNF*
+
+<img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" alt="Status">
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
+
+<img src="https://img.shields.io/github/stars/M1X/TerraEngine?style=social" alt="Stars">
+<img src="https://img.shields.io/github/forks/M1X/TerraEngine?style=social" alt="Forks">
+<img src="https://img.shields.io/github/watchers/M1X/TerraEngine?style=social" alt="Watchers">
+
+---
+
+### 🎯 *"Less Code — More Creativity"*
+
+**TerraEngine** — инновационный игровой движок для FNF, который освобождает разработчиков от бесконечного кодирования!  
+Все ключевые системы настраиваются визуально прямо в игре.
+
+[📥 Скачать](https://github.com/M1X/TerraEngine/releases) • 
+[📖 Документация](./docs) • 
+[🎮 Примеры](./examples) • 
+[💬 Discord](https://discord.gg/your-link) • 
+[🐛 Баг-репорты](https://github.com/M1X/TerraEngine/issues)
+
+---
+
+</div>
+
+## ✨ Главные Фишки
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 **Визуальная Настройка**
+Забудьте о JSON и XML конфигах!  
+Настраивайте всё прямо в игре через интуитивный интерфейс.
+
+</td>
+<td width="50%">
+
+### 🔄 **20+ Типов Переходов**
+Кинематографичные переходы между экранами делают игру живой и профессиональной.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ **Режим Разработчика**
+Нажми **7** и получи доступ к полному набору встроенных редакторов!
+
+</td>
+<td width="50%">
+
+### 🎭 **Уникальные Эффекты**
+Каждое меню может иметь свои шейдеры, эффекты и анимации!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Быстрый Старт
+
+```bash
+# 1. Клонируйте репозиторий
+git clone https://github.com/M1X/TerraEngine.git
+
+# 2. Перейдите в папку
+cd TerraEngine
+
+# 3. Установите зависимости
+haxelib install lime
+haxelib install openfl
+haxelib install flixel
+
+# 4. Запустите проект
+lime test windows
