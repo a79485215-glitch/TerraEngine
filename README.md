@@ -99,31 +99,6 @@ terra-engine/
     └── MENU_SETTINGS.md       ← переходы, zoom-режимы, эффекты экранов
 ```
 
----
-
-## 📊 Статистика проекта
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/your-username/terra-engine?style=for-the-badge&color=FFD700&logo=github)
-![Forks](https://img.shields.io/github/forks/your-username/terra-engine?style=for-the-badge&color=4CC9F0&logo=github)
-![Issues](https://img.shields.io/github/issues/your-username/terra-engine?style=for-the-badge&color=F72585&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/terra-engine?style=for-the-badge&color=06D6A0&logo=github)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/terra-engine?style=for-the-badge&color=7209B7&logo=github)
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" width="26%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" width="60%" />
-
-<img src="https://komarev.com/ghpvc/?username=terra-engine&label=Просмотров%20репозитория&color=7209B7&style=for-the-badge" />
-
-</div>
-
-> ⚠️ Замени `your-username` на реальный логин/организацию на GitHub, чтобы карточки статистики и бейджи начали показывать актуальные данные.
-
----
-
 ## 🤝 Сообщество
 
 | Ссылка | Описание |
