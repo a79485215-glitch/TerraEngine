@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![FNF](https://img.shields.io/badge/Friday%20Night%20Funkin'-Engine-red?style=for-the-badge)
 
-[![Discord Engine](https://img.shields.io/discord/000000000000000000?color=5865F2&label=Discord%20—%20Сообщество%20движка&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/suUsPhPEQh)
+[![Discord Engine](https://img.shields.io/discord/000000000000000000?color=5865F2&label=Discord%20—%20Сообщество%20движка&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/QKmzBSjVS)
 [![Discord Chat](https://img.shields.io/discord/000000000000000000?color=5865F2&label=Discord%20—%20Общение&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/QYYcDqezRZ)
 [![YouTube](https://img.shields.io/badge/YouTube-Terra%20Engine%20FNF-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@TerraEngineFNF)
 
@@ -105,7 +105,7 @@ terra-engine/
 
 | Ссылка | Описание |
 |---|---|
-| 💬 [Discord — Сообщество движка](https://discord.gg/suUsPhPEQh) | Новости, обновления, поддержка по движку |
+| 💬 [Discord — Сообщество движка](https://discord.gg/QKmzBSjVS) | Новости, обновления, поддержка по движку |
 | 💬 [Discord — Общение](https://discord.gg/mNYx7h8QMG) | Общий чат сообщества |
 | 📺 [YouTube — Terra Engine FNF](https://www.youtube.com/@TerraEngineFNF) | Обзоры фич, туториалы, тизеры новых версий |
 
