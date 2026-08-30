@@ -1,70 +1,124 @@
-<!-- АНИМИРОВАННАЯ ШАПКА -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=M1X&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Game%20Engine%20Architect&descAlignY=51&descAlign=62&fontColor=ffffff" />
+
+# 🌍 Terra Engine
+
+### Мощный движок для Friday Night Funkin' с упором на визуал, эффекты и анимации
+
+![Version](https://img.shields.io/badge/version-v0.1%20BETA-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-in%20development-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![FNF](https://img.shields.io/badge/Friday%20Night%20Funkin'-Engine-red?style=for-the-badge)
+
+[![Discord Engine](https://img.shields.io/discord/000000000000000000?color=5865F2&label=Discord%20—%20Сообщество%20движка&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/suUsPhPEQh)
+[![Discord Chat](https://img.shields.io/discord/000000000000000000?color=5865F2&label=Discord%20—%20Общение&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/QYYcDqezRZ)
+[![YouTube](https://img.shields.io/badge/YouTube-Terra%20Engine%20FNF-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@TerraEngineFNF)
+
 </div>
-
-<!-- ПЕЧАТАЮЩИЙСЯ ТЕКСТ (Анимация) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Создатель+TerraEngine+🎮;Архитектор+визуальных+систем+✨;Меньше+кода+—+больше+творчества+🚀;Game+Dev+Innovator+⚡" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>«Я не просто пишу код. Я создаю инструменты, которые позволяют другим творить без границ.»</i>
-</div>
-
-<br/>
 
 ---
 
-### 🌍 Обо мне и моем видении
-Я разработчик и геймдизайнер, сфокусированный на том, чтобы перевернуть подход к созданию игр. Мой главный принцип — дать художникам, аниматорам и геймдизайнерам возможность создавать AAA-опыт, **не написав ни строчки кода**.
+## 📌 О проекте
 
-🔥 **Мой Magnum Opus: [TerraEngine]** *(ссылку добавишь позже)*
-Инновационный движок с упором на ритм-игры и FNF-комьюнити. Я встроил в него систему шейдеров, более 20+ кинематографичных переходов и кастомный модуль `Menu Layout`. В TerraEngine каждое меню — это отдельный визуальный шедевр, который настраивается прямо в режиме разработчика.
+**Terra Engine** — это движок для *Friday Night Funkin'*, созданный не «с нуля», а как **готовое решение из коробки**.
 
-<br/>
+Идея простая: тебе не нужно разбираться в кодинге, чтении шейдеров или анимационных стейтах, чтобы сделать красивый мод. Всё уже настроено, всё уже работает — остаётся только зайти в **настройки** и подкрутить под себя.
 
-### 💻 Мой Арсенал (Технологии)
-<!-- СТИЛЬНЫЕ ИКОНКИ (Автоматически подстраиваются под темную тему) -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,haxe,git,github,vscode,discord,windows&theme=dark&perline=8" alt="Tech Stack" />
-  </a>
-</div>
-
-<br/>
-
-### 📡 Связь и Комьюнити
-Мы строим огромное сообщество вокруг TerraEngine. Присоединяйся, чтобы следить за разработкой и общаться:
-
-<div align="center">
-  <a href="https://discord.gg/suUsPhPEQh" target="_blank">
-    <img src="https://img.shields.io/badge/ДИСКОРД_ДВИЖКА-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Engine"/>
-  </a>
-  <a href="https://discord.gg/mNYx7h8QMG" target="_blank">
-    <img src="https://img.shields.io/badge/НАШЕ_ОБЩЕНИЕ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community"/>
-  </a>
-  <a href="https://www.youtube.com/@TerraEngineFNF" target="_blank">
-    <img src="https://img.shields.io/badge/КАНАЛ_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</div>
-
-<br/>
+> 💡 Если ты новичок в моддинге FNF — это твой движок.
+> 💡 Если ты опытный разработчик — Terra Engine даёт тебе гибкую базу с продвинутой системой эффектов, которую можно расширять.
 
 ---
 
-### 📊 Моя GitHub Активность
-<!-- ДИНАМИЧЕСКАЯ СТАТИСТИКА (Темная неоновая тема) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M1X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Статистика" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1X&theme=tokyonight&hide_border=true&background=0D1117" height="192px" alt="Стрик" />
-</div>
+## ✨ Ключевые фишки
 
-<!-- ВОЛНА ВНИЗУ -->
+| Фича | Описание |
+|---|---|
+| 🎬 **20+ переходов** | Готовые заготовки переходов между экранами, каждый настраивается отдельно |
+| ⏱ **Гибкая длительность** | Duration от `0.5s` до `3s` для каждого перехода |
+| 🎛 **Поведение меню** | Zoom по BPM, Zoom с гличом, Zoom с поворотом камеры и другие режимы |
+| 🌀 **25+ эффектов на экран** | Отдельные наборы эффектов для FreePlay, Credits, Settings, Story Mode |
+| 🛠 **Режим разработчика** | Полноценная встроенная панель редактирования без внешних тулз |
+| 📊 **Chart-настройки** | Эффекты музыки, переходы персонажей, поведение летящих стрелок |
+| 🧍 **Character Settings** | Настройка анимаций, размеров и скорости анимаций персонажей |
+| 🏟 **Stage Editor** | Классический редактор сцен и слоёв |
+| 🗂 **Menu Layout** | Полная кастомизация внешнего вида и поведения главного меню |
+
+Подробнее — в [docs/FEATURES.md](docs/FEATURES.md).
+
+---
+
+## 🚀 Быстрый старт
+
+```bash
+# Склонировать репозиторий
+git clone https://github.com/your-username/terra-engine.git
+
+# Перейти в папку проекта
+cd terra-engine
+
+# Открыть в HaxeFlixel / стандартном для FNF-движков окружении
+# (см. подробную инструкцию в docs/INSTALLATION.md)
+```
+
+Пошаговая установка — [docs/INSTALLATION.md](docs/INSTALLATION.md)
+
+---
+
+## 🧩 Режим разработчика
+
+Terra Engine включает встроенный **Developer Mode** — не нужно лезть в код, чтобы настроить мод.
+
+1. Зайди в **Settings → Additional**
+2. Включи галочку **Developer Mode**
+3. В главном меню нажми клавишу **`7`**
+4. Откроется меню с 4 разделами: **Chart**, **Character Settings**, **Stage Editor**, **Menu Layout**
+
+Подробное описание каждого раздела — [docs/DEVELOPER_MODE.md](docs/DEVELOPER_MODE.md)
+
+---
+
+## 🎨 Переходы и эффекты меню
+
+Полный список из 20+ переходов, режимов поведения меню (Zoom / Zoom+Glitch / Zoom+Camera Rotation) и 25+ эффектов на экранах FreePlay / Credits / Settings / Story Mode описан отдельно:
+
+📄 [docs/MENU_SETTINGS.md](docs/MENU_SETTINGS.md)
+
+---
+
+## 📂 Структура репозитория
+
+```
+terra-engine/
+├── README.md                 ← ты здесь
+├── CHANGELOG.md               ← история версий
+├── CONTRIBUTING.md            ← как помочь проекту
+├── LICENSE
+└── docs/
+    ├── FEATURES.md            ← подробный список фич
+    ├── INSTALLATION.md        ← установка и запуск
+    ├── DEVELOPER_MODE.md      ← режим разработчика (Chart / Character / Stage / Menu Layout)
+    └── MENU_SETTINGS.md       ← переходы, zoom-режимы, эффекты экранов
+```
+
+---
+
+## 🤝 Сообщество
+
+| Ссылка | Описание |
+|---|---|
+| 💬 [Discord — Сообщество движка](https://discord.gg/suUsPhPEQh) | Новости, обновления, поддержка по движку |
+| 💬 [Discord — Общение](https://discord.gg/QYYcDqezRZ) | Общий чат сообщества |
+| 📺 [YouTube — Terra Engine FNF](https://www.youtube.com/@TerraEngineFNF) | Обзоры фич, туториалы, тизеры новых версий |
+
+---
+
+## 📜 Лицензия
+
+Проект распространяется по лицензии [MIT](LICENSE) — свободно используй, модифицируй и распространяй с указанием авторства.
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+
+**Terra Engine v0.1 BETA** — сделано с 💙 для сообщества Friday Night Funkin'
+
 </div>
