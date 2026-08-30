@@ -1,4 +1,4 @@
-# 🤝 Как помочь проекту
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Base&duration=1000&pause=1000000&color=F7CF13&background=77FFCC00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=%E2%81%89%EF%B8%8F%D0%9A%D0%90%D0%9A+%D0%9F%D0%9E%D0%9C%D0%9E%D0%A7%D0%AC+%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2%D0%A3%E2%81%89%EF%B8%8F" alt="Typing SVG" /></a>
 
 Спасибо за интерес к развитию **Terra Engine**!
 
