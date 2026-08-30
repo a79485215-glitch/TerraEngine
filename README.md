@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=220&section=header&text=Terra%20Engine&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Движок%20для%20Friday%20Night%20Funkin'&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F72585,4CC9F0,7209B7,3A86FF,06D6A0&center=true&vCenter=true&multiline=true&width=650&lines=%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%BE%D0%B5+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B7+%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B8+%F0%9F%93%A6;20%2B+%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2+%F0%9F%8E%AC;25%2B+%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%BE%D0%B2+%D0%BD%D0%B0+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD+%F0%9F%8C%80;%D0%92%D1%81%D1%91+%D0%B1%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B4%D0%B0+%E2%9C%A8&repeat=true" alt="Typing SVG" /></a>
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Base&duration=1000&pause=1000000&color=9280F7&background=77FFCC00&center=true&multiline=true&repeat=false&random=true&width=435&lines=%E2%9A%99%EF%B8%8F+%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9+%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82+%D0%B4%D0%BB%D1%8F+%D1%82%D0%B5%D0%B1%D1%8F+%F0%9F%AA%9B" alt="Typing SVG" /></a>](https://readme-typing-svg.demolab.com/demo/?letterSpacing=Base&duration=1000&pause=1000000&color=9280F7&background=77FFCC00&center=true&vCenter=true&multiline=true&repeat=false&random=true&lines=%E2%9A%99%EF%B8%8F+%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9+%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82+%D0%B4%D0%BB%D1%8F+%D1%82%D0%B5%D0%B1%D1%8F+%5E-%5E+%F0%9F%AA%9B+)
+
+
 
 ![Version](https://img.shields.io/badge/version-v0.1%20BETA-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow?style=for-the-badge)
